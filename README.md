@@ -1,7 +1,7 @@
 Task: Simple Calculator in Java
 Write a Java program that functions as a basic calculator. The user can input two numbers and choose an arithmetic operation to perform between them.
 
-✅ Features:
+Features:
 The program supports the four basic arithmetic operations:
 
 Addition (+)
@@ -20,7 +20,7 @@ Then, two numbers are entered.
 
 The result is calculated and printed in a user-friendly format.
 
-🔁 Loop Logic:
+Loop Logic:
 After each calculation, the user is asked whether they want to perform another calculation:
 
 → If yes (Y/y): The calculator restarts.
